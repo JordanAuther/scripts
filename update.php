@@ -1,2 +1,2 @@
 <?php
-exit(json_encode(["version_number"=>1, "version"=>"0.01"]));
+exit(json_encode(["version_number"=>2, "version"=>"0.03"]));
